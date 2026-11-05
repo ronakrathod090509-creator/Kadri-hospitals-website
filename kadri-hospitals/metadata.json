@@ -1,0 +1,6 @@
+{
+  "name": "Kadri Hospitals",
+  "description": "Kadri Hospitals - Advanced multi-specialty healthcare, world-class medical departments, board-certified doctors, and streamlined online appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
